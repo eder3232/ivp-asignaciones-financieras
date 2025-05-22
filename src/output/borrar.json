@@ -1,0 +1,68 @@
+{
+  "otros": {
+    "tipo_superficie": "afirmado",
+    "estado_conservacion_via": "bueno"
+  },
+  "datos_generales": {
+    "distritos": ["Cabanaconde"],
+    "region": "Arequipa",
+    "provincia": "Caylloma"
+  },
+  "expediente": {
+    "codigo_ruta": "R0405106",
+    "monto_total": 81120,
+    "coordenadas": {
+      "fin": {
+        "hemisferio": "S",
+        "y": 8272525.68,
+        "progresiva": 13000,
+        "zona_letra": "L",
+        "x": 813907.99,
+        "datum": "WGS84",
+        "altitud": 1975,
+        "zona": 18
+      },
+      "inicio": {
+        "hemisferio": "S",
+        "y": 8272658.46,
+        "progresiva": 0,
+        "zona_letra": "L",
+        "x": 819845.05,
+        "datum": "WGS84",
+        "altitud": 2877,
+        "zona": 18
+      }
+    },
+    "nombre": "MANTENIMIENTO VIAL RUTINARIO DEL CAMINO VECINAL EMP. R0405104 (CABANACONDE) A PTE. CABANACONDE - CHOCO (L.P. CASTILLA), DISTRITO DE CABANACONDE, PROVINCIA DE CAYLLOMA, REGIÓN AREQUIPA",
+    "longitud": 13000
+  },
+  "other": {
+    "tipo_superficie": "afirmado",
+    "estado_conservacion_via": "bueno"
+  },
+  "contrato": {
+    "jefe_mantenimiento": {
+      "titulo": "Ingeniero",
+      "nombre": "Genaro",
+      "dni": 0,
+      "apellido": "Tinta Cáceres"
+    },
+    "numero_trabajadores": 4,
+    "denominacion_tramo_convenio": "Emp. Choco Soro Soro (Cabanaconde) a Pte. Cabanaconde - Choco - Ld Castilla (Km 14+064)",
+    "numero_cuadrillas": 1,
+    "tipo_servicio": "mantenimiento rutinario",
+    "fecha_inicio": { "anio": 2025, "mes": 4, "dia": 10 },
+    "id_contrato": "001-2025",
+    "monto_contrato": 59504.8,
+    "contratista": {
+      "razon_social": "Grupo ARICOL E.I.R.L.",
+      "ruc": 20606988398
+    },
+    "tiempo_ejecucion_dias": 240
+  },
+  "general_data": {
+    "distritos": ["Cabanaconde"],
+    "region": "Arequipa",
+    "provincia": "Caylloma"
+  }
+}
