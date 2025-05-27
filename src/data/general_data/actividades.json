@@ -8,7 +8,7 @@
           "key": "MR101",
           "value": {
             "label": "Limpieza de calzada",
-            "carga_trabajo": 3.6,
+            "carga_trabajo": 0,
             "unidad": "Km"
           }
         },
@@ -16,7 +16,7 @@
           "key": "MR102",
           "value": {
             "label": "Bacheo",
-            "carga_trabajo": 360,
+            "carga_trabajo": 0,
             "unidad": "m2"
           }
         },
@@ -32,7 +32,7 @@
           "key": "MR104",
           "value": {
             "label": "Remoción de derrumbes",
-            "carga_trabajo": 9,
+            "carga_trabajo": 0,
             "unidad": "m3"
           }
         }
@@ -105,7 +105,7 @@
           "value": {
             "label": "Roce y limpieza",
             "carga_trabajo": 0,
-            "unidad": "Km"
+            "unidad": "m2"
           }
         }
       ]
